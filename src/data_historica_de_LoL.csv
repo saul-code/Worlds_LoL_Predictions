@@ -1,0 +1,733 @@
+Team A,score,Team B,year
+against All authority,0 - 1,Epik Gamer,2011
+against All authority,1 - 0,Fnatic,2011
+against All authority,1 - 0,Team Pacific,2011
+Epik Gamer,1 - 0,against All authority,2011
+Epik Gamer,1 - 0,Fnatic,2011
+Epik Gamer,1 - 0,Team Pacific,2011
+Fnatic,0 - 1,against All authority,2011
+Fnatic,0 - 1,Epik Gamer,2011
+Fnatic,1 - 0,Team Pacific,2011
+Team Pacific,0 - 1,against All authority,2011
+Team Pacific,0 - 1,Epik Gamer,2011
+Team Pacific,0 - 1,Fnatic,2011
+Counter Logic Gaming,1 - 0,Team gamed!de,2011
+Counter Logic Gaming,0 - 1,TSM,2011
+Counter Logic Gaming,1 - 0,Xan,2011
+Team gamed!de,0 - 1,Counter Logic Gaming,2011
+Team gamed!de,0 - 1,TSM,2011
+Team gamed!de,1 - 0,Xan,2011
+TSM,1 - 0,Counter Logic Gaming,2011
+TSM,1 - 0,Team gamed!de,2011
+TSM,0 - 1,Xan,2011
+Xan,0 - 1,Counter Logic Gaming,2011
+Xan,0 - 1,Team gamed!de,2011
+Xan,1 - 0,TSM,2011
+Azubu Frost,1 - 0,CLG Prime,2012
+Azubu Frost,1 - 0,Invictus Gaming,2012
+Azubu Frost,1 - 0,SK Gaming,2012
+CLG Prime,0 - 1,Azubu Frost,2012
+CLG Prime,0 - 1,Invictus Gaming,2012
+CLG Prime,1 - 0,SK Gaming,2012
+Invictus Gaming,0 - 1,Azubu Frost,2012
+Invictus Gaming,1 - 0,CLG Prime,2012
+Invictus Gaming,1 - 0,SK Gaming,2012
+SK Gaming,0 - 1,Azubu Frost,2012
+SK Gaming,0 - 1,CLG Prime,2012
+SK Gaming,0 - 1,Invictus Gaming,2012
+CLG Europe,1 - 0,Dignitas,2012
+CLG Europe,0 - 1,NaJin Sword,2012
+CLG Europe,1 - 0,Saigon Jokers,2012
+Dignitas,0 - 1,Counter Logic Gaming Europe,2012
+Dignitas,0 - 1,NaJin Sword,2012
+Dignitas,0 - 1,Saigon Jokers,2012
+NaJin Sword,1 - 0,Counter Logic Gaming Europe,2012
+NaJin Sword,1 - 0,Dignitas,2012
+NaJin Sword,1 - 0,Saigon Jokers,2012
+Saigon Jokers,0 - 1,Counter Logic Gaming Europe,2012
+Saigon Jokers,1 - 0,Dignitas,2012
+Saigon Jokers,0 - 1,NaJin Sword,2012
+GamingGear.eu,0 - 2,Lemondogs,2013
+GamingGear.eu,0 - 2,Oh My God,2013
+GamingGear.eu,0 - 2,SK Telecom T1,2013
+GamingGear.eu,1 - 1,TSM,2013
+Lemondogs,2 - 0,GamingGear.eu,2013
+Lemondogs,0 - 2,Oh My God,2013
+Lemondogs,0 - 2,SK Telecom T1,2013
+Lemondogs,1 - 1,TSM,2013
+Oh My God,2 - 0,GamingGear.eu,2013
+Oh My God,2 - 0,Lemondogs,2013
+Oh My God,1 - 1,SK Telecom T1,2013
+Oh My God,2 - 0,TSM,2013
+SK Telecom T1,2 - 0,GamingGear.eu,2013
+SK Telecom T1,2 - 0,Lemondogs,2013
+SK Telecom T1,1 - 1,Oh My God,2013
+SK Telecom T1,2 - 0,TSM,2013
+TSM,1 - 1,GamingGear.eu,2013
+TSM,1 - 1,Lemondogs,2013
+TSM,0 - 2,Oh My God,2013
+TSM,0 - 2,SK Telecom T1,2013
+Fnatic,2 - 0,Gambit Gaming,2013
+Fnatic,2 - 0,Mineski,2013
+Fnatic,2 - 0,Samsung Ozone,2013
+Fnatic,1 - 1,Team Vulcun,2013
+Gambit Gaming,0 - 2,Fnatic,2013
+Gambit Gaming,2 - 0,Mineski,2013
+Gambit Gaming,1 - 1,Samsung Ozone,2013
+Gambit Gaming,2 - 0,Team Vulcun,2013
+Mineski,0 - 2,Fnatic,2013
+Mineski,0 - 2,Gambit Gaming,2013
+Mineski,0 - 2,Samsung Ozone,2013
+Mineski,0 - 2,Team Vulcun,2013
+Samsung Ozone,0 - 2,Fnatic,2013
+Samsung Ozone,1 - 1,Gambit Gaming,2013
+Samsung Ozone,2 - 0,Mineski,2013
+Samsung Ozone,2 - 0,Team Vulcun,2013
+Team Vulcun,1 - 1,Fnatic,2013
+Team Vulcun,0 - 2,Gambit Gaming,2013
+Team Vulcun,2 - 0,Mineski,2013
+Team Vulcun,0 - 2,Samsung Ozone,2013
+ahq eSports Club,2 - 0,Dark Passage,2014
+ahq eSports Club,1 - 1,EDward Gaming,2014
+ahq eSports Club,0 - 2,Samsung White,2014
+Dark Passage,0 - 2,ahq eSports Club,2014
+Dark Passage,0 - 2,EDward Gaming,2014
+Dark Passage,0 - 2,Samsung White,2014
+EDward Gaming,1 - 1,ahq eSports Club,2014
+EDward Gaming,2 - 0,Dark Passage,2014
+EDward Gaming,0 - 2,Samsung White,2014
+Samsung White,2 - 0,ahq eSports Club,2014
+Samsung White,2 - 0,Dark Passage,2014
+Samsung White,2 - 0,EDward Gaming,2014
+SK Gaming,0 - 2,Star Horn Royal Club,2014
+SK Gaming,1 - 1,Taipei Assassins,2014
+SK Gaming,1 - 1,TSM,2014
+Star Horn Royal Club,2 - 0,SK Gaming,2014
+Star Horn Royal Club,2 - 0,Taipei Assassins,2014
+Star Horn Royal Club,1 - 1,TSM,2014
+Taipei Assassins,1 - 1,SK Gaming,2014
+Taipei Assassins,0 - 2,Star Horn Royal Club,2014
+Taipei Assassins,0 - 2,TSM,2014
+TSM,1 - 1,SK Gaming,2014
+TSM,1 - 1,Star Horn Royal Club,2014
+TSM,2 - 0,Taipei Assassins,2014
+Fnatic,1 - 1,LMQ,2014
+Fnatic,0 - 2,Oh My God,2014
+Fnatic,1 - 1,Samsung Blue,2014
+LMQ,1 - 1,Fnatic,2014
+LMQ,1 - 1,Oh My God,2014
+LMQ,0 - 2,Samsung Blue,2014
+Oh My God,2 - 0,Fnatic,2014
+Oh My God,1 - 1,LMQ,2014
+Oh My God,0 - 2,Samsung Blue,2014
+Samsung Blue,1 - 1,Fnatic,2014
+Samsung Blue,2 - 0,LMQ,2014
+Samsung Blue,2 - 0,Oh My God,2014
+Alliance,1 - 1,Cloud9,2014
+Alliance,1 - 1,KaBuM! Esports,2014
+Alliance,1 - 1,NaJin White Shield,2014
+Cloud9,1 - 1,Alliance,2014
+Cloud9,2 - 0,KaBuM! Esports,2014
+Cloud9,1 - 1,NaJin White Shield,2014
+KaBuM! Esports,1 - 1,Alliance,2014
+KaBuM! Esports,0 - 2,Cloud9,2014
+KaBuM! Esports,0 - 2,NaJin White Shield,2014
+NaJin White Shield,1 - 1,Alliance,2014
+NaJin White Shield,1 - 1,Cloud9,2014
+NaJin White Shield,2 - 0,KaBuM! Esports,2014
+Counter Logic Gaming,1 - 1,Flash Wolves,2015
+Counter Logic Gaming,0 - 2,KOO Tigers,2015
+Counter Logic Gaming,1 - 1,paiN Gaming,2015
+Flash Wolves,1 - 1,Counter Logic Gaming,2015
+Flash Wolves,2 - 0,KOO Tigers,2015
+Flash Wolves,1 - 1,paiN Gaming,2015
+KOO Tigers,2 - 0,Counter Logic Gaming,2015
+KOO Tigers,0 - 2,Flash Wolves,2015
+KOO Tigers,2 - 0,paiN Gaming,2015
+paiN Gaming,1 - 1,Counter Logic Gaming,2015
+paiN Gaming,1 - 1,Flash Wolves,2015
+paiN Gaming,0 - 2,KOO Tigers,2015
+ahq eSports Club,1 - 1,Cloud9,2015
+ahq eSports Club,1 - 1,Fnatic,2015
+ahq eSports Club,1 - 1,Invictus Gaming,2015
+Cloud9,1 - 1,ahq eSports Club,2015
+Cloud9,1 - 1,Fnatic,2015
+Cloud9,1 - 1,Invictus Gaming,2015
+Fnatic,1 - 1,ahq eSports Club,2015
+Fnatic,1 - 1,Cloud9,2015
+Fnatic,2 - 0,Invictus Gaming,2015
+Invictus Gaming,1 - 1,ahq eSports Club,2015
+Invictus Gaming,1 - 1,Cloud9,2015
+Invictus Gaming,0 - 2,Fnatic,2015
+Bangkok Titans,0 - 2,EDward Gaming,2015
+Bangkok Titans,0 - 2,H2k-Gaming,2015
+Bangkok Titans,0 - 2,SK Telecom T1,2015
+EDward Gaming,2 - 0,Bangkok Titans,2015
+EDward Gaming,2 - 0,H2k-Gaming,2015
+EDward Gaming,0 - 2,SK Telecom T1,2015
+H2k-Gaming,2 - 0,Bangkok Titans,2015
+H2k-Gaming,0 - 2,EDward Gaming,2015
+H2k-Gaming,0 - 2,SK Telecom T1,2015
+SK Telecom T1,2 - 0,Bangkok Titans,2015
+SK Telecom T1,2 - 0,EDward Gaming,2015
+SK Telecom T1,2 - 0,H2k-Gaming,2015
+KT Rolster,2 - 0,LGD Gaming,2015
+KT Rolster,1 - 1,Origen,2015
+KT Rolster,2 - 0,TSM,2015
+LGD Gaming,0 - 2,KT Rolster,2015
+LGD Gaming,1 - 1,Origen,2015
+LGD Gaming,1 - 1,TSM,2015
+Origen,1 - 1,KT Rolster,2015
+Origen,1 - 1,LGD Gaming,2015
+Origen,2 - 0,TSM,2015
+TSM,0 - 2,KT Rolster,2015
+TSM,1 - 1,LGD Gaming,2015
+TSM,0 - 2,Origen,2015
+Albus NoX Luna,2 - 0,Counter Logic Gaming,2016
+Albus NoX Luna,1 - 1,G2 Esports,2016
+Albus NoX Luna,1 - 1,ROX Tigers,2016
+Counter Logic Gaming,0 - 2,Albus NoX Luna,2016
+Counter Logic Gaming,2 - 0,G2 Esports,2016
+Counter Logic Gaming,1 - 1,ROX Tigers,2016
+G2 Esports,1 - 1,Albus NoX Luna,2016
+G2 Esports,0 - 2,Counter Logic Gaming,2016
+G2 Esports,0 - 2,ROX Tigers,2016
+ROX Tigers,1 - 1,Albus NoX Luna,2016
+ROX Tigers,1 - 1,Counter Logic Gaming,2016
+ROX Tigers,2 - 0,G2 Esports,2016
+Cloud9,1 - 1,Flash Wolves,2016
+Cloud9,2 - 0,I May,2016
+Cloud9,0 - 2,SK Telecom T1,2016
+Flash Wolves,1 - 1,Cloud9,2016
+Flash Wolves,0 - 2,I May,2016
+Flash Wolves,1 - 1,SK Telecom T1,2016
+I May,0 - 2,Cloud9,2016
+I May,2 - 0,Flash Wolves,2016
+I May,0 - 2,SK Telecom T1,2016
+SK Telecom T1,2 - 0,Cloud9,2016
+SK Telecom T1,1 - 1,Flash Wolves,2016
+SK Telecom T1,2 - 0,I May,2016
+ahq eSports Club,0 - 2,EDward Gaming,2016
+ahq eSports Club,1 - 1,H2k-Gaming,2016
+ahq eSports Club,2 - 0,INTZ,2016
+EDward Gaming,2 - 0,ahq eSports Club,2016
+EDward Gaming,1 - 1,H2k-Gaming,2016
+EDward Gaming,1 - 1,INTZ,2016
+H2k-Gaming,1 - 1,ahq eSports Club,2016
+H2k-Gaming,1 - 1,EDward Gaming,2016
+H2k-Gaming,2 - 0,INTZ,2016
+INTZ,0 - 2,ahq eSports Club,2016
+INTZ,1 - 1,EDward Gaming,2016
+INTZ,0 - 2,H2k-Gaming,2016
+Royal Never Give Up,0 - 2,Samsung Galaxy,2016
+Royal Never Give Up,1 - 1,Splyce,2016
+Royal Never Give Up,2 - 0,TSM,2016
+Samsung Galaxy,2 - 0,Royal Never Give Up,2016
+Samsung Galaxy,2 - 0,Splyce,2016
+Samsung Galaxy,1 - 1,TSM,2016
+Splyce,1 - 1,Royal Never Give Up,2016
+Splyce,0 - 2,Samsung Galaxy,2016
+Splyce,0 - 2,TSM,2016
+TSM,0 - 2,Royal Never Give Up,2016
+TSM,1 - 1,Samsung Galaxy,2016
+TSM,2 - 0,Splyce,2016
+Gambit Esports,0 - 2,Lyon Gaming (2013 Latin American Team),2017
+Gambit Esports,0 - 2,Team WE,2017
+Lyon Gaming,2 - 0,Gambit Esports,2017
+Lyon Gaming,0 - 2,Team WE,2017
+Team WE,2 - 0,Gambit Esports,2017
+Team WE,2 - 0,Lyon Gaming (2013 Latin American Team),2017
+Cloud9,2 - 0,Dire Wolves,2017
+Cloud9,2 - 0,Team oNe eSports,2017
+Dire Wolves,0 - 2,Cloud9,2017
+Dire Wolves,1 - 1,Team oNe eSports,2017
+Team oNe eSports,0 - 2,Cloud9,2017
+Team oNe eSports,1 - 1,Dire Wolves,2017
+Fnatic,2 - 0,Kaos Latin Gamers,2017
+Fnatic,1 - 1,Young Generation,2017
+Kaos Latin Gamers,0 - 2,Fnatic,2017
+Kaos Latin Gamers,1 - 1,Young Generation,2017
+Young Generation,1 - 1,Fnatic,2017
+Young Generation,1 - 1,Kaos Latin Gamers,2017
+Fenerbahçe Esports,1 - 1,Hong Kong Attitude,2017
+Fenerbahçe Esports,2 - 0,Rampage,2017
+Hong Kong Attitude,1 - 1,Fenerbahçe Esports,2017
+Hong Kong Attitude,2 - 0,Rampage,2017
+Rampage,0 - 2,Fenerbahçe Esports,2017
+Rampage,0 - 2,Hong Kong Attitude,2017
+ahq eSports Club,0 - 2,Cloud9,2017
+ahq eSports Club,1 - 1,EDward Gaming,2017
+ahq eSports Club,1 - 1,SK Telecom T1,2017
+Cloud9,2 - 0,ahq eSports Club,2017
+Cloud9,1 - 1,EDward Gaming,2017
+Cloud9,0 - 2,SK Telecom T1,2017
+EDward Gaming,1 - 1,ahq eSports Club,2017
+EDward Gaming,1 - 1,Cloud9,2017
+EDward Gaming,0 - 2,SK Telecom T1,2017
+SK Telecom T1,1 - 1,ahq eSports Club,2017
+SK Telecom T1,2 - 0,Cloud9,2017
+SK Telecom T1,2 - 0,EDward Gaming,2017
+Fnatic,1 - 1,GIGABYTE Marines,2017
+Fnatic,1 - 1,Immortals,2017
+Fnatic,0 - 2,Longzhu Gaming,2017
+GIGABYTE Marines,1 - 1,Fnatic,2017
+GIGABYTE Marines,1 - 1,Immortals,2017
+GIGABYTE Marines,0 - 2,Longzhu Gaming,2017
+Immortals,1 - 1,Fnatic,2017
+Immortals,1 - 1,GIGABYTE Marines,2017
+Immortals,0 - 2,Longzhu Gaming,2017
+Longzhu Gaming,2 - 0,Fnatic,2017
+Longzhu Gaming,2 - 0,GIGABYTE Marines,2017
+Longzhu Gaming,2 - 0,Immortals,2017
+Fenerbahçe Esports,0 - 2,G2 Esports,2017
+Fenerbahçe Esports,0 - 2,Royal Never Give Up,2017
+Fenerbahçe Esports,0 - 2,Samsung Galaxy,2017
+G2 Esports,2 - 0,Fenerbahçe Esports,2017
+G2 Esports,1 - 1,Royal Never Give Up,2017
+G2 Esports,0 - 2,Samsung Galaxy,2017
+Royal Never Give Up,2 - 0,Fenerbahçe Esports,2017
+Royal Never Give Up,1 - 1,G2 Esports,2017
+Royal Never Give Up,2 - 0,Samsung Galaxy,2017
+Samsung Galaxy,2 - 0,Fenerbahçe Esports,2017
+Samsung Galaxy,2 - 0,G2 Esports,2017
+Samsung Galaxy,0 - 2,Royal Never Give Up,2017
+Flash Wolves,0 - 2,Misfits Gaming,2017
+Flash Wolves,0 - 2,Team WE,2017
+Flash Wolves,1 - 1,TSM,2017
+Misfits Gaming,2 - 0,Flash Wolves,2017
+Misfits Gaming,0 - 2,Team WE,2017
+Misfits Gaming,1 - 1,TSM,2017
+Team WE,2 - 0,Flash Wolves,2017
+Team WE,2 - 0,Misfits Gaming,2017
+Team WE,1 - 1,TSM,2017
+TSM,1 - 1,Flash Wolves,2017
+TSM,1 - 1,Misfits Gaming,2017
+TSM,1 - 1,Team WE,2017
+Dire Wolves,0 - 2,EDward Gaming,2018
+Dire Wolves,1 - 1,INFINITY,2018
+EDward Gaming,2 - 0,Dire Wolves,2018
+EDward Gaming,1 - 1,INFINITY,2018
+INFINITY,1 - 1,Dire Wolves,2018
+INFINITY,1 - 1,EDward Gaming,2018
+Ascension Gaming,0 - 2,G2 Esports,2018
+Ascension Gaming,0 - 2,SuperMassive Esports,2018
+G2 Esports,2 - 0,Ascension Gaming,2018
+G2 Esports,1 - 1,SuperMassive Esports,2018
+SuperMassive Esports,2 - 0,Ascension Gaming,2018
+SuperMassive Esports,1 - 1,G2 Esports,2018
+Cloud9,2 - 0,DetonatioN FocusMe,2018
+Cloud9,2 - 0,KaBuM! Esports,2018
+DetonatioN FocusMe,0 - 2,Cloud9,2018
+DetonatioN FocusMe,1 - 1,KaBuM! Esports,2018
+KaBuM! Esports,0 - 2,Cloud9,2018
+KaBuM! Esports,1 - 1,DetonatioN FocusMe,2018
+G-Rex,2 - 0,Gambit Esports,2018
+G-Rex,2 - 0,Kaos Latin Gamers,2018
+Gambit Esports,0 - 2,G-Rex,2018
+Gambit Esports,2 - 0,Kaos Latin Gamers,2018
+Kaos Latin Gamers,0 - 2,G-Rex,2018
+Kaos Latin Gamers,0 - 2,Gambit Esports,2018
+Afreeca Freecs,1 - 1,Flash Wolves,2018
+Afreeca Freecs,1 - 1,G2 Esports,2018
+Afreeca Freecs,2 - 0,Phong Vũ Buffalo,2018
+Flash Wolves,1 - 1,Afreeca Freecs,2018
+Flash Wolves,1 - 1,G2 Esports,2018
+Flash Wolves,1 - 1,Phong Vũ Buffalo,2018
+G2 Esports,1 - 1,Afreeca Freecs,2018
+G2 Esports,1 - 1,Flash Wolves,2018
+G2 Esports,1 - 1,Phong Vũ Buffalo,2018
+Phong Vũ Buffalo,0 - 2,Afreeca Freecs,2018
+Phong Vũ Buffalo,1 - 1,Flash Wolves,2018
+Phong Vũ Buffalo,1 - 1,G2 Esports,2018
+Cloud9,1 - 1,Gen.G,2018
+Cloud9,1 - 1,Royal Never Give Up,2018
+Cloud9,2 - 0,Team Vitality,2018
+Gen.G,1 - 1,Cloud9,2018
+Gen.G,0 - 2,Royal Never Give Up,2018
+Gen.G,0 - 2,Team Vitality,2018
+Royal Never Give Up,1 - 1,Cloud9,2018
+Royal Never Give Up,2 - 0,Gen.G,2018
+Royal Never Give Up,1 - 1,Team Vitality,2018
+Team Vitality,0 - 2,Cloud9,2018
+Team Vitality,2 - 0,Gen.G,2018
+Team Vitality,1 - 1,Royal Never Give Up,2018
+EDward Gaming,1 - 1,KT Rolster,2018
+EDward Gaming,2 - 0,MAD Team,2018
+EDward Gaming,1 - 1,Team Liquid,2018
+KT Rolster,1 - 1,EDward Gaming,2018
+KT Rolster,2 - 0,MAD Team,2018
+KT Rolster,2 - 0,Team Liquid,2018
+MAD Team,0 - 2,EDward Gaming,2018
+MAD Team,0 - 2,KT Rolster,2018
+MAD Team,0 - 2,Team Liquid,2018
+Team Liquid,1 - 1,EDward Gaming,2018
+Team Liquid,0 - 2,KT Rolster,2018
+Team Liquid,2 - 0,MAD Team,2018
+100 Thieves,0 - 2,Fnatic,2018
+100 Thieves,2 - 0,G-Rex,2018
+100 Thieves,0 - 2,Invictus Gaming,2018
+Fnatic,2 - 0,100 Thieves,2018
+Fnatic,2 - 0,G-Rex,2018
+Fnatic,1 - 1,Invictus Gaming,2018
+G-Rex,0 - 2,100 Thieves,2018
+G-Rex,0 - 2,Fnatic,2018
+G-Rex,0 - 2,Invictus Gaming,2018
+Invictus Gaming,2 - 0,100 Thieves,2018
+Invictus Gaming,1 - 1,Fnatic,2018
+Invictus Gaming,2 - 0,G-Rex,2018
+Clutch Gaming,2 - 0,MAMMOTH,2019
+Clutch Gaming,0 - 2,Unicorns of Love.CIS,2019
+MAMMOTH,0 - 2,Clutch Gaming,2019
+MAMMOTH,2 - 0,Unicorns of Love.CIS,2019
+Unicorns of Love,2 - 0,Clutch Gaming,2019
+Unicorns of Love,0 - 2,MAMMOTH,2019
+DetonatioN FocusMe,0 - 2,Isurus,2019
+DetonatioN FocusMe,1 - 1,Splyce,2019
+Isurus,2 - 0,DetonatioN FocusMe,2019
+Isurus,0 - 2,Splyce,2019
+Splyce,1 - 1,DetonatioN FocusMe,2019
+Splyce,2 - 0,Isurus,2019
+Hong Kong Attitude,1 - 1,Lowkey Esports.Vietnam,2019
+Hong Kong Attitude,2 - 0,MEGA,2019
+Lowkey Esports,1 - 1,Hong Kong Attitude,2019
+Lowkey Esports,1 - 1,MEGA,2019
+MEGA,0 - 2,Hong Kong Attitude,2019
+MEGA,1 - 1,Lowkey Esports.Vietnam,2019
+DAMWON Gaming,2 - 0,Flamengo Esports,2019
+DAMWON Gaming,2 - 0,Royal Youth,2019
+Flamengo Esports,0 - 2,DAMWON Gaming,2019
+Flamengo Esports,1 - 1,Royal Youth,2019
+Royal Youth,0 - 2,DAMWON Gaming,2019
+Royal Youth,1 - 1,Flamengo Esports,2019
+Cloud9,0 - 2,G2 Esports,2019
+Cloud9,0 - 2,Griffin (Korean Team),2019
+Cloud9,2 - 0,Hong Kong Attitude,2019
+G2 Esports,2 - 0,Cloud9,2019
+G2 Esports,1 - 1,Griffin (Korean Team),2019
+G2 Esports,2 - 0,Hong Kong Attitude,2019
+Griffin,2 - 0,Cloud9,2019
+Griffin,1 - 1,G2 Esports,2019
+Griffin,2 - 0,Hong Kong Attitude,2019
+Hong Kong Attitude,0 - 2,Cloud9,2019
+Hong Kong Attitude,0 - 2,G2 Esports,2019
+Hong Kong Attitude,0 - 2,Griffin (Korean Team),2019
+FunPlus Phoenix,2 - 0,GAM Esports,2019
+FunPlus Phoenix,1 - 1,J Team,2019
+FunPlus Phoenix,1 - 1,Splyce,2019
+GAM Esports,0 - 2,FunPlus Phoenix,2019
+GAM Esports,1 - 1,J Team,2019
+GAM Esports,0 - 2,Splyce,2019
+J Team,1 - 1,FunPlus Phoenix,2019
+J Team,1 - 1,GAM Esports,2019
+J Team,1 - 1,Splyce,2019
+Splyce,1 - 1,FunPlus Phoenix,2019
+Splyce,2 - 0,GAM Esports,2019
+Splyce,1 - 1,J Team,2019
+Clutch Gaming,0 - 2,Fnatic,2019
+Clutch Gaming,0 - 2,Royal Never Give Up,2019
+Clutch Gaming,0 - 2,SK Telecom T1,2019
+Fnatic,2 - 0,Clutch Gaming,2019
+Fnatic,1 - 1,Royal Never Give Up,2019
+Fnatic,1 - 1,SK Telecom T1,2019
+Royal Never Give Up,2 - 0,Clutch Gaming,2019
+Royal Never Give Up,1 - 1,Fnatic,2019
+Royal Never Give Up,0 - 2,SK Telecom T1,2019
+SK Telecom T1,2 - 0,Clutch Gaming,2019
+SK Telecom T1,1 - 1,Fnatic,2019
+SK Telecom T1,2 - 0,Royal Never Give Up,2019
+ahq eSports Club,0 - 2,DAMWON Gaming,2019
+ahq eSports Club,0 - 2,Invictus Gaming,2019
+ahq eSports Club,0 - 2,Team Liquid,2019
+DAMWON Gaming,2 - 0,ahq eSports Club,2019
+DAMWON Gaming,2 - 0,Invictus Gaming,2019
+DAMWON Gaming,1 - 1,Team Liquid,2019
+Invictus Gaming,2 - 0,ahq eSports Club,2019
+Invictus Gaming,0 - 2,DAMWON Gaming,2019
+Invictus Gaming,2 - 0,Team Liquid,2019
+Team Liquid,2 - 0,ahq eSports Club,2019
+Team Liquid,1 - 1,DAMWON Gaming,2019
+Team Liquid,0 - 2,Invictus Gaming,2019
+INTZ,0 - 1,Legacy Esports,2020
+INTZ,0 - 1,MAD Lions,2020
+INTZ,0 - 1,Papara SuperMassive,2020
+INTZ,1 - 0,Team Liquid,2020
+Legacy Esports,1 - 0,INTZ,2020
+Legacy Esports,1 - 0,MAD Lions,2020
+Legacy Esports,1 - 0,Papara SuperMassive,2020
+Legacy Esports,0 - 1,Team Liquid,2020
+MAD Lions,1 - 0,INTZ,2020
+MAD Lions,0 - 1,Legacy Esports,2020
+MAD Lions,0 - 1,Papara SuperMassive,2020
+MAD Lions,0 - 1,Team Liquid,2020
+Papara SuperMassive,1 - 0,INTZ,2020
+Papara SuperMassive,0 - 1,Legacy Esports,2020
+Papara SuperMassive,1 - 0,MAD Lions,2020
+Papara SuperMassive,0 - 1,Team Liquid,2020
+Team Liquid,0 - 1,INTZ,2020
+Team Liquid,1 - 0,Legacy Esports,2020
+Team Liquid,1 - 0,MAD Lions,2020
+Team Liquid,1 - 0,Papara SuperMassive,2020
+LGD Gaming,0 - 1,PSG Talon,2020
+LGD Gaming,0 - 1,Rainbow7,2020
+LGD Gaming,0 - 1,Unicorns of Love.CIS,2020
+LGD Gaming,1 - 0,V3 Esports,2020
+PSG Talon,1 - 0,LGD Gaming,2020
+PSG Talon,1 - 0,Rainbow7,2020
+PSG Talon,0 - 1,Unicorns of Love.CIS,2020
+PSG Talon,1 - 0,V3 Esports,2020
+Rainbow7,1 - 0,LGD Gaming,2020
+Rainbow7,0 - 1,PSG Talon,2020
+Rainbow7,1 - 0,Unicorns of Love.CIS,2020
+Rainbow7,0 - 1,V3 Esports,2020
+Unicorns of Love,1 - 0,LGD Gaming,2020
+Unicorns of Love,1 - 0,PSG Talon,2020
+Unicorns of Love,0 - 1,Rainbow7,2020
+Unicorns of Love,1 - 0,V3 Esports,2020
+V3 Esports,0 - 1,LGD Gaming,2020
+V3 Esports,0 - 1,PSG Talon,2020
+V3 Esports,1 - 0,Rainbow7,2020
+V3 Esports,0 - 1,Unicorns of Love.CIS,2020
+G2 Esports,2 - 0,Machi Esports,2020
+G2 Esports,1 - 1,Suning,2020
+G2 Esports,1 - 1,Team Liquid,2020
+Machi Esports,0 - 2,G2 Esports,2020
+Machi Esports,0 - 2,Suning,2020
+Machi Esports,1 - 1,Team Liquid,2020
+Suning,1 - 1,G2 Esports,2020
+Suning,2 - 0,Machi Esports,2020
+Suning,1 - 1,Team Liquid,2020
+Team Liquid,1 - 1,G2 Esports,2020
+Team Liquid,1 - 1,Machi Esports,2020
+Team Liquid,1 - 1,Suning,2020
+DAMWON Gaming,1 - 1,JD Gaming,2020
+DAMWON Gaming,2 - 0,PSG Talon,2020
+DAMWON Gaming,2 - 0,Rogue (European Team),2020
+JD Gaming,1 - 1,DAMWON Gaming,2020
+JD Gaming,1 - 1,PSG Talon,2020
+JD Gaming,2 - 0,Rogue (European Team),2020
+PSG Talon,0 - 2,DAMWON Gaming,2020
+PSG Talon,1 - 1,JD Gaming,2020
+PSG Talon,1 - 1,Rogue (European Team),2020
+Rogue,0 - 2,DAMWON Gaming,2020
+Rogue,0 - 2,JD Gaming,2020
+Rogue,1 - 1,PSG Talon,2020
+Fnatic,1 - 1,Gen.G,2020
+Fnatic,1 - 1,LGD Gaming,2020
+Fnatic,2 - 0,TSM,2020
+Gen.G,1 - 1,Fnatic,2020
+Gen.G,2 - 0,LGD Gaming,2020
+Gen.G,2 - 0,TSM,2020
+LGD Gaming,1 - 1,Fnatic,2020
+LGD Gaming,0 - 2,Gen.G,2020
+LGD Gaming,2 - 0,TSM,2020
+TSM,0 - 2,Fnatic,2020
+TSM,0 - 2,Gen.G,2020
+TSM,0 - 2,LGD Gaming,2020
+DRX,2 - 0,FlyQuest,2020
+DRX,0 - 2,Top Esports,2020
+DRX,2 - 0,Unicorns of Love.CIS,2020
+FlyQuest,0 - 2,DRX,2020
+FlyQuest,1 - 1,Top Esports,2020
+FlyQuest,2 - 0,Unicorns of Love.CIS,2020
+Top Esports,2 - 0,DRX,2020
+Top Esports,1 - 1,FlyQuest,2020
+Top Esports,2 - 0,Unicorns of Love.CIS,2020
+Unicorns of Love,0 - 2,DRX,2020
+Unicorns of Love,0 - 2,FlyQuest,2020
+Unicorns of Love,0 - 2,Top Esports,2020
+Hanwha Life Esports,1 - 0,INFINITY,2021
+Hanwha Life Esports,0 - 1,LNG Esports,2021
+Hanwha Life Esports,1 - 0,PEACE (Oceanic Team),2021
+Hanwha Life Esports,1 - 0,RED Canids,2021
+INFINITY,0 - 1,Hanwha Life Esports,2021
+INFINITY,0 - 1,LNG Esports,2021
+INFINITY,0 - 1,PEACE (Oceanic Team),2021
+INFINITY,0 - 1,RED Canids,2021
+LNG Esports,1 - 0,Hanwha Life Esports,2021
+LNG Esports,1 - 0,INFINITY,2021
+LNG Esports,1 - 0,PEACE (Oceanic Team),2021
+LNG Esports,1 - 0,RED Canids,2021
+PEACE,0 - 1,Hanwha Life Esports,2021
+PEACE,1 - 0,INFINITY,2021
+PEACE,0 - 1,LNG Esports,2021
+PEACE,1 - 0,RED Canids,2021
+RED Canids,0 - 1,Hanwha Life Esports,2021
+RED Canids,1 - 0,INFINITY,2021
+RED Canids,0 - 1,LNG Esports,2021
+RED Canids,0 - 1,PEACE (Oceanic Team),2021
+Beyond Gaming,0 - 1,Cloud9,2021
+Beyond Gaming,0 - 1,DetonatioN FocusMe,2021
+Beyond Gaming,0 - 1,Galatasaray Esports,2021
+Beyond Gaming,1 - 0,Unicorns of Love.CIS,2021
+Cloud9,1 - 0,Beyond Gaming,2021
+Cloud9,1 - 0,DetonatioN FocusMe,2021
+Cloud9,1 - 0,Galatasaray Esports,2021
+Cloud9,0 - 1,Unicorns of Love.CIS,2021
+DetonatioN FocusMe,1 - 0,Beyond Gaming,2021
+DetonatioN FocusMe,0 - 1,Cloud9,2021
+DetonatioN FocusMe,1 - 0,Galatasaray Esports,2021
+DetonatioN FocusMe,1 - 0,Unicorns of Love.CIS,2021
+Galatasaray Esports,1 - 0,Beyond Gaming,2021
+Galatasaray Esports,0 - 1,Cloud9,2021
+Galatasaray Esports,0 - 1,DetonatioN FocusMe,2021
+Galatasaray Esports,1 - 0,Unicorns of Love.CIS,2021
+Unicorns of Love,0 - 1,Beyond Gaming,2021
+Unicorns of Love,1 - 0,Cloud9,2021
+Unicorns of Love,0 - 1,DetonatioN FocusMe,2021
+Unicorns of Love,0 - 1,Galatasaray Esports,2021
+Cloud9,0 - 2,DWG KIA,2021
+Cloud9,1 - 1,FunPlus Phoenix,2021
+Cloud9,1 - 1,Rogue (European Team),2021
+DWG KIA,2 - 0,Cloud9,2021
+DWG KIA,2 - 0,FunPlus Phoenix,2021
+DWG KIA,2 - 0,Rogue (European Team),2021
+FunPlus Phoenix,1 - 1,Cloud9,2021
+FunPlus Phoenix,0 - 2,DWG KIA,2021
+FunPlus Phoenix,1 - 1,Rogue (European Team),2021
+Rogue,1 - 1,Cloud9,2021
+Rogue,0 - 2,DWG KIA,2021
+Rogue,1 - 1,FunPlus Phoenix,2021
+100 Thieves,2 - 0,DetonatioN FocusMe,2021
+100 Thieves,1 - 1,EDward Gaming,2021
+100 Thieves,0 - 2,T1,2021
+DetonatioN FocusMe,0 - 2,100 Thieves,2021
+DetonatioN FocusMe,0 - 2,EDward Gaming,2021
+DetonatioN FocusMe,0 - 2,T1,2021
+EDward Gaming,1 - 1,100 Thieves,2021
+EDward Gaming,2 - 0,DetonatioN FocusMe,2021
+EDward Gaming,1 - 1,T1,2021
+T1,2 - 0,100 Thieves,2021
+T1,2 - 0,DetonatioN FocusMe,2021
+T1,1 - 1,EDward Gaming,2021
+Fnatic,0 - 2,Hanwha Life Esports,2021
+Fnatic,0 - 2,PSG Talon,2021
+Fnatic,1 - 1,Royal Never Give Up,2021
+Hanwha Life Esports,2 - 0,Fnatic,2021
+Hanwha Life Esports,1 - 1,PSG Talon,2021
+Hanwha Life Esports,1 - 1,Royal Never Give Up,2021
+PSG Talon,2 - 0,Fnatic,2021
+PSG Talon,1 - 1,Hanwha Life Esports,2021
+PSG Talon,0 - 2,Royal Never Give Up,2021
+Royal Never Give Up,1 - 1,Fnatic,2021
+Royal Never Give Up,1 - 1,Hanwha Life Esports,2021
+Royal Never Give Up,2 - 0,PSG Talon,2021
+Gen.G,1 - 1,LNG Esports,2021
+Gen.G,1 - 1,MAD Lions,2021
+Gen.G,1 - 1,Team Liquid,2021
+LNG Esports,1 - 1,Gen.G,2021
+LNG Esports,1 - 1,MAD Lions,2021
+LNG Esports,1 - 1,Team Liquid,2021
+MAD Lions,1 - 1,Gen.G,2021
+MAD Lions,1 - 1,LNG Esports,2021
+MAD Lions,1 - 1,Team Liquid,2021
+Team Liquid,1 - 1,Gen.G,2021
+Team Liquid,1 - 1,LNG Esports,2021
+Team Liquid,1 - 1,MAD Lions,2021
+Beyond Gaming,1 - 0,Chiefs Esports Club,2022
+Beyond Gaming,0 - 1,DetonatioN FocusMe,2022
+Beyond Gaming,0 - 1,Evil Geniuses.NA,2022
+Beyond Gaming,0 - 1,Fnatic,2022
+Beyond Gaming,1 - 0,LOUD,2022
+Chiefs Esports Club,0 - 1,Beyond Gaming,2022
+Chiefs Esports Club,0 - 1,DetonatioN FocusMe,2022
+Chiefs Esports Club,0 - 1,Evil Geniuses.NA,2022
+Chiefs Esports Club,0 - 1,Fnatic,2022
+Chiefs Esports Club,0 - 1,LOUD,2022
+DetonatioN FocusMe,1 - 0,Beyond Gaming,2022
+DetonatioN FocusMe,1 - 0,Chiefs Esports Club,2022
+DetonatioN FocusMe,1 - 0,Evil Geniuses.NA,2022
+DetonatioN FocusMe,0 - 1,Fnatic,2022
+DetonatioN FocusMe,0 - 1,LOUD,2022
+Evil Geniuses,1 - 0,Beyond Gaming,2022
+Evil Geniuses,1 - 0,Chiefs Esports Club,2022
+Evil Geniuses,0 - 1,DetonatioN FocusMe,2022
+Evil Geniuses,0 - 1,Fnatic,2022
+Evil Geniuses,1 - 0,LOUD,2022
+Fnatic,1 - 0,Beyond Gaming,2022
+Fnatic,1 - 0,Chiefs Esports Club,2022
+Fnatic,1 - 0,DetonatioN FocusMe,2022
+Fnatic,1 - 0,Evil Geniuses.NA,2022
+Fnatic,0 - 1,LOUD,2022
+LOUD,0 - 1,Beyond Gaming,2022
+LOUD,1 - 0,Chiefs Esports Club,2022
+LOUD,1 - 0,DetonatioN FocusMe,2022
+LOUD,0 - 1,Evil Geniuses.NA,2022
+LOUD,1 - 0,Fnatic,2022
+DRX,1 - 0,Istanbul Wildcats,2022
+DRX,1 - 0,Isurus,2022
+DRX,1 - 0,MAD Lions,2022
+DRX,1 - 0,Royal Never Give Up,2022
+DRX,1 - 0,Saigon Buffalo,2022
+DenizBank İstanbul Wildcats,0 - 1,DRX,2022
+DenizBank İstanbul Wildcats,0 - 1,Isurus,2022
+DenizBank İstanbul Wildcats,0 - 1,MAD Lions,2022
+DenizBank İstanbul Wildcats,0 - 1,Royal Never Give Up,2022
+DenizBank İstanbul Wildcats,0 - 1,Saigon Buffalo,2022
+Isurus,0 - 1,DRX,2022
+Isurus,1 - 0,Istanbul Wildcats,2022
+Isurus,0 - 1,MAD Lions,2022
+Isurus,0 - 1,Royal Never Give Up,2022
+Isurus,0 - 1,Saigon Buffalo,2022
+MAD Lions,0 - 1,DRX,2022
+MAD Lions,1 - 0,Istanbul Wildcats,2022
+MAD Lions,1 - 0,Isurus,2022
+MAD Lions,0 - 1,Royal Never Give Up,2022
+MAD Lions,1 - 0,Saigon Buffalo,2022
+Royal Never Give Up,0 - 1,DRX,2022
+Royal Never Give Up,1 - 0,Istanbul Wildcats,2022
+Royal Never Give Up,1 - 0,Isurus,2022
+Royal Never Give Up,1 - 0,MAD Lions,2022
+Royal Never Give Up,1 - 0,Saigon Buffalo,2022
+Saigon Buffalo,0 - 1,DRX,2022
+Saigon Buffalo,1 - 0,Istanbul Wildcats,2022
+Saigon Buffalo,1 - 0,Isurus,2022
+Saigon Buffalo,0 - 1,MAD Lions,2022
+Saigon Buffalo,0 - 1,Royal Never Give Up,2022
+Cloud9,0 - 2,EDward Gaming,2022
+Cloud9,1 - 1,Fnatic,2022
+Cloud9,0 - 2,T1,2022
+EDward Gaming,2 - 0,Cloud9,2022
+EDward Gaming,2 - 0,Fnatic,2022
+EDward Gaming,0 - 2,T1,2022
+Fnatic,1 - 1,Cloud9,2022
+Fnatic,0 - 2,EDward Gaming,2022
+Fnatic,1 - 1,T1,2022
+T1,2 - 0,Cloud9,2022
+T1,2 - 0,EDward Gaming,2022
+T1,1 - 1,Fnatic,2022
+DWG KIA,2 - 0,Evil Geniuses.NA,2022
+DWG KIA,2 - 0,G2 Esports,2022
+DWG KIA,1 - 1,JD Gaming,2022
+Evil Geniuses,0 - 2,DWG KIA,2022
+Evil Geniuses,1 - 1,G2 Esports,2022
+Evil Geniuses,0 - 2,JD Gaming,2022
+G2 Esports,0 - 2,DWG KIA,2022
+G2 Esports,1 - 1,Evil Geniuses.NA,2022
+G2 Esports,0 - 2,JD Gaming,2022
+JD Gaming,1 - 1,DWG KIA,2022
+JD Gaming,2 - 0,Evil Geniuses.NA,2022
+JD Gaming,2 - 0,G2 Esports,2022
+DRX,2 - 0,GAM Esports,2022
+DRX,1 - 1,Rogue (European Team),2022
+DRX,1 - 1,Top Esports,2022
+GAM Esports,0 - 2,DRX,2022
+GAM Esports,0 - 2,Rogue (European Team),2022
+GAM Esports,1 - 1,Top Esports,2022
+Rogue,1 - 1,DRX,2022
+Rogue,2 - 0,GAM Esports,2022
+Rogue,1 - 1,Top Esports,2022
+Top Esports,1 - 1,DRX,2022
+Top Esports,1 - 1,GAM Esports,2022
+Top Esports,1 - 1,Rogue (European Team),2022
+100 Thieves,1 - 1,CTBC Flying Oyster,2022
+100 Thieves,0 - 2,Gen.G,2022
+100 Thieves,0 - 2,Royal Never Give Up,2022
+CTBC Flying Oyster,1 - 1,100 Thieves,2022
+CTBC Flying Oyster,0 - 2,Gen.G,2022
+CTBC Flying Oyster,0 - 2,Royal Never Give Up,2022
+Gen.G,2 - 0,100 Thieves,2022
+Gen.G,2 - 0,CTBC Flying Oyster,2022
+Gen.G,1 - 1,Royal Never Give Up,2022
+Royal Never Give Up,2 - 0,100 Thieves,2022
+Royal Never Give Up,2 - 0,CTBC Flying Oyster,2022
+Royal Never Give Up,1 - 1,Gen.G,2022
