@@ -7,6 +7,15 @@ import pandas as pd
 years = [2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022]
 
 def get_matches(year):
+   """
+     Obtiene todos los partidos y los puntos del mundial de League of Legends de cada año en la fase de grupos
+  
+    Args:
+         year(int): año que quieres obtener datos
+            
+    Returns:      
+          df_matches (pd.DataFrame): DataFrame con datos de partidos de ese año.
+      """
 
   if (year >= 2014):
     web = f'https://lol.fandom.com/wiki/{year}_Season_World_Championship'
@@ -47,6 +56,7 @@ def get_matches(year):
   df_matches = pd.DataFrame(dict_matches_resultado)
   return df_matches
 
+#Generamos el archivo csv para todos los años en la lista years
 mundial_Lol = [get_matches(year) for year in years]
 df_mundial_Lol=pd.concat(mundial_Lol, ignore_index = True)
 df_mundial_Lol.to_csv('data_historica_de_LoL.csv',index=False)
