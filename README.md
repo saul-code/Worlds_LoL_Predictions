@@ -9,9 +9,9 @@ Primero, necesitamos calcular la tasa promedio (λ, lambda) de victorias de tu e
 
 ### Paso 2: Aplicar la fórmula de Poisson
 La fórmula de la distribución de Poisson es:
-$ P(k; λ) = \frac{λ^k e^{-λ}}{k!}$
+```$ P(k; λ) = \frac{λ^k e^{-λ}}{k!}$```
 Donde:
-- $P(k; λ)$ es la probabilidad de que ocurran \(k\) eventos (en este caso, victorias) cuando el promedio es \(λ\).
+- ```$P(k; λ)$``` es la probabilidad de que ocurran \(k\) eventos (en este caso, victorias) cuando el promedio es \(λ\).
 - \(k\) es el número de eventos que nos interesa calcular la probabilidad (por ejemplo, necesitamos al menos 3 victorias para ganar una serie al mejor de cinco).
 - \(λ\) es el promedio de eventos (victorias) que calculamos en el paso 1.
 - \(e\) es la base de los logaritmos naturales.
@@ -21,4 +21,5 @@ Para ganar una serie al mejor de cinco, el Equipo A necesita ganar  3 partidos. 
 
 
 ## Ejecucion del programa
-```pip install -r requirements.txt``` para tener las librerias necesarias
+1. ```pip install -r requirements.txt``` para tener las librerias necesarias
+2. Debemos estar en el src/ y ejecutamos ```python3 Main.py```
